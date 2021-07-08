@@ -12,10 +12,13 @@ elif pid == 0:
     # time.sleep(3)
     print("The new process")
     print('a=', a)
-    a = 10000
-else:
+
     # time.sleep(1)
     print("The old process")
     print('a:', a)
+
+
+print("fork test over")
+print('all a=', a)
 
 
