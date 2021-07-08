@@ -18,5 +18,4 @@ else:
     print("The old process")
     print('a:', a)
 
-print("fork test over")
-print('all a=', a)
+
