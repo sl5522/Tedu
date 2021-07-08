@@ -7,7 +7,7 @@ def f1():
     print("fun1")
 
 
-
+efefefefeffefe
 
 
 pid = os.fork()
