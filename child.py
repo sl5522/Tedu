@@ -7,9 +7,7 @@ def f1():
     print("fun1")
 
 
-def f2():
-    sleep(3)
-    print("fun2")
+
 
 
 pid = os.fork()
